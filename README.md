@@ -3,11 +3,11 @@
 🗓️ November 30th, 2023
 📍 Workday, Kings Building, 152-155 Church St, Arran Quay, Dublin 7, D07 A0TN
 
-🙌 We are back with our end of the year Techie Table Quiz, and this year's title (thanks to Declan) is: Season's Geekings! The Techie Charity Quiz
+🙌 Season's Geekings, the Irish Techie Charity Quiz is back! 
 
 This event is free but you need to register (below) as Workday security will require to have your names, and your tags will be ready at reception on the night of the event.
 
-💖 We've chosen to fundraise for 
+💖 Raising funds for the following charities:  
 
 * [BUMBLEance Children's Ambulance Service](https://www.bumbleance.com/)
 * [Coolmine Therapeutic Community](https://www.coolmine.ie/)
@@ -16,7 +16,7 @@ This event is free but you need to register (below) as Workday security will req
   
 All funds raised here will go directly to this great cause.
 
-🙏 We hope that you and your techie community can help us by donating whatever you can via [iDonate](https://www.idonate.ie/fundraiser/IrishGeeks). All donations are processed securely.
+🙏 Help by donating whatever you can via [iDonate](https://www.idonate.ie/fundraiser/IrishGeeks). All donations are processed securely.
 
 🌈 Please find the banner and logo in this repo for your help is spreading the word to your community. 
 
@@ -38,8 +38,11 @@ Thank you!
 ## Hugs to the following Community Partners (in alphabetical order):
 
 * [Coding Grace](https://codinggrace.com)
+* [Codú](https://www.codu.co/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
 * [GameCraft](https://gamecraft.it)
+* [HackHers Dublin](https://www.meetup.com/hackhers-dublin/)
+* [Ireland Girl Geek Dinners](https://www.meetup.com/ireland-girl-geek-dinners/)
 * [JSConf Ireland](https://www.jsconf.ie/)
 * [PyData Ireland](https://www.meetup.com/pydataireland/)
 * [PyLadies Dublin](https://dublin.pyladies.com)
