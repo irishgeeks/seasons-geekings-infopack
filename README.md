@@ -40,6 +40,7 @@ Thank you!
 * [Coding Grace](https://codinggrace.com)
 * [Codú](https://www.codu.co/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
+* [Dublin Java User Group (DJUG)](https://www.dubjug.org/)
 * [GameCraft](https://gamecraft.it)
 * [HackHers Dublin](https://www.meetup.com/hackhers-dublin/)
 * [Ireland Girl Geek Dinners](https://www.meetup.com/ireland-girl-geek-dinners/)
@@ -48,8 +49,10 @@ Thank you!
 * [PyLadies Dublin](https://dublin.pyladies.com)
 * [Python Ireland](https://python.ie)
 * [Ruby Ireland](http://www.rubyireland.com/)
+* [TechFoundHer](https://techfoundher.com/)
 * [TOG Hackerspace](https://www.tog.ie)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/)
+
 
 # Schedule (\*subject to change)
 
