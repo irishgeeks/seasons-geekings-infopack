@@ -51,6 +51,7 @@ Thank you!
 * [Python Ireland](https://python.ie)
 * [Ruby Ireland](http://www.rubyireland.com/)
 * [TechFoundHer](https://techfoundher.com/)
+* [Techstars Startup Weekend Women Dublin](https://linktr.ee/SWDubWomen)
 * [TOG Hackerspace](https://www.tog.ie)
 * [Women in AI Ireland](https://www.linkedin.com/company/women-in-ai-ireland/)
 
