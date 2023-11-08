@@ -41,6 +41,7 @@ Thank you!
 * [Codú](https://www.codu.co/)
 * [Dublin Elixir](https://www.dublinelixir.org/)
 * [Dublin Java User Group (DJUG)](https://www.dubjug.org/)
+* [Dublin Tech Talks](https://www.meetup.com/dublin-tech-talks/)
 * [GameCraft](https://gamecraft.it)
 * [HackHers Dublin](https://www.meetup.com/hackhers-dublin/)
 * [Ireland Girl Geek Dinners](https://www.meetup.com/ireland-girl-geek-dinners/)
